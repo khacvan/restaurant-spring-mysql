@@ -1,0 +1,24 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: restaurant-db
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: restaurant-db
+  template:
+    metadata:
+      labels:
+        app: restaurant-db
+    spec:
+      containers:
+        - name: mysql
+          image: mysql:8.0.33
+          env:
+            - name: MYSQL_ALLOW_EMPTY_PASSWORD
+              value: "yes"
+            - name: MYSQL_DATABASE
+              value: restaurant_api
+          ports:
+            - containerPort: 3306
