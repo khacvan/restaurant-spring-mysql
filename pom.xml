@@ -129,6 +129,11 @@
                     <to>
                         <image>mysqlrestaurantregistry.azurecr.io/restaurant-api-docker</image>
                     </to>
+
+                    <auth>
+                        <username>00000000-0000-0000-0000-000000000000</username>
+                        <password>eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkszSUk6VlhERTpTSlZHOjc3QUw6Q0VZTjpYTzZIOlRHWlA6S1hBTDpIWUROOlJKNUc6TjQ2NTo0TkdNIn0.eyJqdGkiOiJlNWEyOGIyYi1hYmEwLTQ4MmMtOWUwNC1jYjgwZTdiYjlkYzciLCJzdWIiOiJob2NtaWVucGhpNzExQDEwZWR1Y2F0aW9uLnZuIiwibmJmIjoxNjkyNzU3MDQ3LCJleHAiOjE2OTI3Njg3NDcsImlhdCI6MTY5Mjc1NzA0NywiaXNzIjoiQXp1cmUgQ29udGFpbmVyIFJlZ2lzdHJ5IiwiYXVkIjoibXlzcWxyZXN0YXVyYW50cmVnaXN0cnkuYXp1cmVjci5pbyIsInZlcnNpb24iOiIxLjAiLCJyaWQiOiI3ODhhZDVhY2RlMzg0ODFhODUyMTQ0NWJiOGFkOGM1ZSIsImdyYW50X3R5cGUiOiJyZWZyZXNoX3Rva2VuIiwiYXBwaWQiOiJiNjc3YzI5MC1jZjRiLTRhOGUtYTYwZS05MWJhNjUwYTRhYmUiLCJ0ZW5hbnQiOiI5ZWYzYjRkZi00ZTRiLTRmMjMtODQ5Zi01ODg1MjlkNTFlOTgiLCJwZXJtaXNzaW9ucyI6eyJBY3Rpb25zIjpbInJlYWQiLCJ3cml0ZSIsImRlbGV0ZSIsImRlbGV0ZWQvcmVhZCIsImRlbGV0ZWQvcmVzdG9yZS9hY3Rpb24iXSwiTm90QWN0aW9ucyI6bnVsbH0sInJvbGVzIjpbXX0.njwYwZItNRPfAGe1CoBFYAAOSDifbNp5XssnXjOEhogBzMOfWyLB8beEHirulkRZlgMhTsZN-bu1IFJTBuQqkKSWz8VfZBH-mKIn__8GRDXtKxXe-_uy4kfYSN8aFPpG38RlUfrjbIsMovzHfUmeIgaQ4DnTTZv-mS_HDE5KEFiervo_Z_tFlfb6nAj12Zxfga4o1r3N7oiS-RT2YlwewOLHeBT0nQi8-phiiedvTKHH7UsVi6jWxOatYKut3Lq5gdfslVl4sBCyme_V-G_sojDch-3ffFbxuRTLAW7k7xaWFIRsO-BIwEa_rYCgpHN_NTOPTwhmcGnWjBSIqrlFew</password>
+                    </auth>
                 </configuration>
             </plugin>
 
